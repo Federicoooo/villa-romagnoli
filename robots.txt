@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://federicoooo.github.io/villa-romagnoli/sitemap.xml
